@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,payment_method,status
+201,33,2025-06-09,"Cash on Delivery",returned
+202,13,2025-06-16,UPI,returned
+203,12,2025-06-10,"Credit Card",cancelled
+204,3,2025-06-05,"Net Banking",cancelled
+205,13,2025-06-11,UPI,cancelled
+206,45,2025-06-03,"Cash on Delivery",cancelled
+207,17,2025-06-01,"Net Banking",cancelled
+208,46,2025-06-02,"Cash on Delivery",returned
+209,23,2025-06-06,UPI,cancelled
+210,2,2025-06-20,"Credit Card",cancelled
+211,34,2025-06-17,Wallet,cancelled
+212,19,2025-06-15,Wallet,delivered
+213,4,2025-06-05,Wallet,cancelled
+214,24,2025-06-06,Wallet,cancelled
+215,34,2025-06-09,"Cash on Delivery",returned
+216,38,2025-06-08,Wallet,returned
+217,47,2025-06-18,"Cash on Delivery",delivered
+218,40,2025-06-18,"Net Banking",delivered
+219,14,2025-06-06,"Net Banking",delivered
+220,36,2025-06-10,UPI,cancelled
+221,25,2025-06-21,"Cash on Delivery",returned
+222,48,2025-06-19,Wallet,returned
+223,10,2025-06-07,UPI,returned
+224,38,2025-06-19,"Cash on Delivery",cancelled
+225,8,2025-06-09,"Cash on Delivery",delivered
+226,22,2025-06-03,UPI,cancelled
+227,36,2025-06-09,Wallet,delivered
+228,6,2025-06-12,Wallet,returned
+229,23,2025-06-07,"Credit Card",delivered
+230,27,2025-06-12,Wallet,cancelled
+231,47,2025-06-05,UPI,cancelled
+232,49,2025-06-16,"Cash on Delivery",cancelled
+233,38,2025-06-09,"Net Banking",returned
+234,48,2025-06-07,"Credit Card",returned
+235,37,2025-06-15,"Net Banking",cancelled
+236,39,2025-06-09,"Cash on Delivery",delivered
+237,17,2025-06-10,"Net Banking",cancelled
+238,43,2025-06-11,"Net Banking",returned
+239,25,2025-06-10,"Net Banking",returned
+240,7,2025-06-11,"Cash on Delivery",delivered
+241,10,2025-06-18,Wallet,cancelled
+242,18,2025-06-07,"Cash on Delivery",returned
+243,29,2025-06-13,UPI,cancelled
+244,11,2025-06-03,"Credit Card",cancelled
+245,20,2025-06-17,"Credit Card",cancelled
+246,26,2025-06-11,UPI,delivered
+247,21,2025-06-16,"Cash on Delivery",cancelled
+248,44,2025-06-19,UPI,delivered
+249,15,2025-06-05,Wallet,delivered
+250,42,2025-06-08,"Credit Card",cancelled
+251,1,2025-06-06,Wallet,cancelled
+252,32,2025-06-11,UPI,cancelled
+253,16,2025-06-04,UPI,returned
+254,5,2025-06-14,Wallet,delivered
+255,9,2025-06-13,Wallet,returned
+256,41,2025-06-17,"Cash on Delivery",delivered
+257,35,2025-06-04,UPI,cancelled
+258,28,2025-06-08,"Credit Card",delivered
+259,31,2025-06-18,"Credit Card",delivered
+260,50,2025-06-15,"Cash on Delivery",cancelled
+261,30,2025-06-06,UPI,returned
+262,3,2025-06-14,UPI,cancelled
+263,19,2025-06-12,"Net Banking",delivered
+264,31,2025-06-10,Wallet,cancelled
+265,11,2025-06-20,"Credit Card",cancelled
+266,6,2025-06-13,Wallet,delivered
+267,29,2025-06-07,Wallet,cancelled
+268,9,2025-06-04,"Net Banking",cancelled
+269,20,2025-06-03,"Credit Card",returned
+270,21,2025-06-15,"Cash on Delivery",delivered
+271,12,2025-06-08,Wallet,delivered
+272,26,2025-06-06,Wallet,cancelled
+273,46,2025-06-14,Wallet,cancelled
+274,16,2025-06-12,"Credit Card",returned
+275,15,2025-06-16,Wallet,cancelled
+276,27,2025-06-20,Wallet,returned
+277,30,2025-06-17,"Cash on Delivery",delivered
+278,7,2025-06-05,UPI,delivered
+279,8,2025-06-14,Wallet,cancelled
+280,4,2025-06-09,UPI,returned
+281,32,2025-06-15,Wallet,delivered
+282,5,2025-06-06,Wallet,returned
+283,22,2025-06-04,UPI,delivered
+284,35,2025-06-07,Wallet,cancelled
+285,1,2025-06-13,"Credit Card",cancelled
+286,39,2025-06-10,UPI,returned
+287,28,2025-06-16,Wallet,delivered
+288,44,2025-06-15,"Cash on Delivery",delivered
+289,18,2025-06-11,"Credit Card",returned
+290,27,2025-06-12,Wallet,cancelled
+291,43,2025-06-04,Wallet,returned
+292,24,2025-06-07,UPI,delivered
+293,14,2025-06-05,UPI,cancelled
+294,10,2025-06-03,Wallet,delivered
+295,34,2025-06-14,"Net Banking",returned
+296,13,2025-06-08,"Cash on Delivery",delivered
+297,42,2025-06-05,UPI,returned
+298,37,2025-06-13,UPI,cancelled
+299,33,2025-06-18,Wallet,cancelled
+300,49,2025-06-19,UPI,delivered

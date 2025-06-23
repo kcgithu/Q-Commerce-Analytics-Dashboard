@@ -1,0 +1,31 @@
+product_id,product_name,category,price,brand
+101,"Amul Milk 1L",Dairy,56.50,Amul
+102,"Parle-G Biscuits 250g",Snacks,20.00,Parle
+103,"Colgate Toothpaste 100g","Personal Care",55.00,Colgate
+104,"Tata Salt 1kg",Grocery,28.00,Tata
+105,"Surf Excel Detergent 500g",Cleaning,65.00,HUL
+106,"Mother Dairy Curd 400g",Dairy,45.00,"Mother Dairy"
+107,"Maggi Noodles 70g",Snacks,14.00,Nestle
+108,"Dettol Handwash 200ml","Personal Care",60.00,Dettol
+109,"Fortune Sunflower Oil 1L",Grocery,135.00,Fortune
+110,"Pepsi 750ml",Beverages,40.00,PepsiCo
+111,"Amul Butter 100g",Dairy,52.00,Amul
+112,"Tropicana Orange Juice 1L",Beverages,110.00,PepsiCo
+113,"Harpic Toilet Cleaner 500ml",Cleaning,89.00,HUL
+114,"Dove Soap 100g","Personal Care",38.00,HUL
+115,"Bournvita Health Drink 500g",Grocery,199.00,Cadbury
+116,"Aashirvaad Atta 5kg",Grocery,280.00,ITC
+117,"Good Day Cashew Cookies 200g",Snacks,35.00,Britannia
+118,"Red Label Tea 250g",Grocery,75.00,HUL
+119,"Real Mixed Fruit Juice 1L",Beverages,105.00,Dabur
+120,"Clinic Plus Shampoo 175ml","Personal Care",85.00,HUL
+121,"Nestle Dahi 400g",Dairy,42.00,Nestle
+122,"Kissan Mixed Fruit Jam 200g",Grocery,65.00,HUL
+123,"Lays Classic Salted 90g",Snacks,30.00,PepsiCo
+124,"Nivea Body Lotion 200ml","Personal Care",120.00,Nivea
+125,"Tide Detergent 1kg",Cleaning,97.00,P&G
+126,"Sprite 750ml",Beverages,42.00,Coca-Cola
+127,"Brooke Bond Taaza Tea 500g",Grocery,95.00,HUL
+128,"Patanjali Ghee 500ml",Grocery,270.00,Patanjali
+129,"Nestle Milkmaid 400g",Dairy,129.00,Nestle
+130,"Coca-Cola 750ml",Beverages,42.00,Coca-Cola
